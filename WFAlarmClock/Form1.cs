@@ -76,6 +76,7 @@ namespace WFAlarmClock
             if (int.TryParse(txtHour.Text, out hours)
                 && int.Parse(txtHour.Text) <= 12
                 && int.TryParse(txtMinute.Text, out minutes) 
+                && int.Parse(txtMinute.Text) <= 59
                 && (comboBoxAMPM.SelectedItem != null))
             {
                 string amPm = comboBoxAMPM.SelectedItem.ToString();

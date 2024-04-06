@@ -1,0 +1,10 @@
+E:\Coding Practice\WFAlarmClock\bin\Release\WFAlarmClock.exe.config
+E:\Coding Practice\WFAlarmClock\bin\Release\WFAlarmClock.exe
+E:\Coding Practice\WFAlarmClock\bin\Release\WFAlarmClock.pdb
+E:\Coding Practice\WFAlarmClock\obj\Release\WFAlarmClock.csproj.AssemblyReference.cache
+E:\Coding Practice\WFAlarmClock\obj\Release\WFAlarmClock.Form1.resources
+E:\Coding Practice\WFAlarmClock\obj\Release\WFAlarmClock.Properties.Resources.resources
+E:\Coding Practice\WFAlarmClock\obj\Release\WFAlarmClock.csproj.GenerateResource.cache
+E:\Coding Practice\WFAlarmClock\obj\Release\WFAlarmClock.csproj.CoreCompileInputs.cache
+E:\Coding Practice\WFAlarmClock\obj\Release\WFAlarmClock.exe
+E:\Coding Practice\WFAlarmClock\obj\Release\WFAlarmClock.pdb

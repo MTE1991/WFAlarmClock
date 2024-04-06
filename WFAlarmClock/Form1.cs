@@ -59,7 +59,7 @@ namespace WFAlarmClock
                     alarmSound.Play();
                     MessageBox.Show("Alarm!", "Alarm", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                    return;
+                    break;
                 }
                 else
                 {

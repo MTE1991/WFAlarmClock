@@ -20,7 +20,7 @@ namespace WFAlarmClock
 
             timer.Start();
             radioButton2.Checked = true; // 24 hr format selected by default
-            alarmSound.SoundLocation = @"E:\Coding Practice\WFAlarmClock\assets\alarmTune.wav"; 
+            alarmSound.SoundLocation = @"E:\Coding Practice\WFAlarmClock\assets\alarmTune.wav"; // relative path is recommended
         }
 
         private void timer1_Tick(object sender, EventArgs e)
